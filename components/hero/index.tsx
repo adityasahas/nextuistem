@@ -63,7 +63,7 @@ export const Hero = () => {
                   size={'$lg'}
                   span
                >
-                  The STEM club at Sierra Pacific High School organizes weekly activities centered around science, technology, engineering, and mathematics. These events provide students with an opportunity to explore STEM subjects in a fun and interactive way.
+                  The STEM club at Sierra Pacific High School organizes weekly activities centered around science, technology, engineering, and mathematics. These events provide students with an opportunity to explore STEM subjects in a fun, unique and interactive way.
                </Text>
             </Box>
             <Box

@@ -159,7 +159,7 @@ export const Leadership = () => {
               <p>
                 I am the director of Engineering for the STEM Club. For the
                 engineering part of our club, I plan to make fun projects
-                that’ll help the members that are interested in engineering.
+                thatll help the members that are interested in engineering.
                 Outside of our STEM Club, I am involved in CSF, Color Guard, and
                 Environmental Club.
               </p>
@@ -196,7 +196,7 @@ export const Leadership = () => {
                 Director of Math | Co-Director of Tech
               </Badge>
               <p>
-                I am the director of Math at the STEM Club. I'm currently a
+                I am the director of Math at the STEM Club. Im currently a
                 sophomore, and participate in the band at school. I really enjoy
                 coding and hope to share my passion for math and tech!
               </p>

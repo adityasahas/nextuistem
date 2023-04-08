@@ -67,15 +67,19 @@ export const Hero = () => {
                </Text>
             </Box>
             <Box
+               id='home'
                css={{
                   '& img': {
-                     width: '775px',
+                     width: '475px',
                      objectFit: 'contain',
+                     borderRadius: '10%',
+                     marginLeft: '25px',
+                     marginRight: '25px',
+
                   },
                }}
             >
-               <img src="mock.png" />
-            </Box>
+               <img src="stem.png" />            </Box>
          </Flex>
       </>
    );

@@ -72,7 +72,7 @@ export const Leadership = () => {
             <Card.Body css={{ gap: "0.5rem" }}>
               <h3>Lucas Esqueda</h3>
               <Badge style={badgeGradient}>Vice President</Badge>
-              <p>Lucas is a sophomore in High School.</p>
+              <p>Lucas is a sophomore in High School...</p>
             </Card.Body>
           </Card>
         </Flex>
@@ -143,7 +143,7 @@ export const Leadership = () => {
             <Card.Body css={{ gap: "0.5rem" }}>
               <h3>Greyson Mueller</h3>
               <Badge style={badgeGradient}>Director of Science</Badge>
-              <p>Greyson is sophomore in high school.</p>
+              <p>Greyson is sophomore in high school who enjoys science. Hes in FFA where he learns about veterinary sciences on a CDE team. He handles science related matters in STEM Club along with Xinyu and enjoys sharing his scientific knowledge with others.</p>
             </Card.Body>
           </Card>
           <Card
@@ -212,7 +212,7 @@ export const Leadership = () => {
             <Card.Body css={{ gap: "0.5rem" }}>
               <h3>Dylan Gambino</h3>
               <Badge style={badgeGradient}>Co-Director of Engineering</Badge>
-              <p>Dylan is sophomore.</p>
+              <p>Dylan is sophomore...</p>
             </Card.Body>
           </Card>
         </Flex>

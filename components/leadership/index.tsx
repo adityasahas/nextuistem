@@ -25,7 +25,8 @@ export const Leadership = () => {
             pt: "$20",
           }}
         >
-          <Text css={{ color: "$blue600" }} h3>
+          <Text                id="leadership"
+css={{ color: "$blue600" }} h3>
             Leadership
           </Text>
           <Text

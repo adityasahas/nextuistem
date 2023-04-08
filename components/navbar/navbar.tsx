@@ -1,16 +1,12 @@
 import {
    Modal,
-   Image,
    Divider,
    Button,
-   Dropdown,
    Link,
    Navbar,
    Switch,
    Text,
    Card,
-   Badge,
-   Avatar,
  } from "@nextui-org/react";
  import React from "react";
  import { icons } from "./icons";
@@ -27,7 +23,7 @@ import {
    };
    const { setTheme } = useNextTheme();
    const { isDark, type } = useTheme();
-   const collapseItems = ["About", "Leadership", "What We Do", "Contact"];
+   const collapseItems = ["About", "What We Do", "Leadership"];
    return (
      <Navbar isBordered variant="floating">
        <Navbar.Brand>
@@ -42,10 +38,9 @@ import {
              pl: "6rem",
            }}
          >
-           <Navbar.Link href="#">About</Navbar.Link>
-           <Navbar.Link href="#">Leadership</Navbar.Link>
-           <Navbar.Link href="#">What We Do</Navbar.Link>
-           <Navbar.Link href="#">Contact</Navbar.Link>
+           <Navbar.Link href="#hero">About</Navbar.Link>
+           <Navbar.Link href="#whatwedo">What We Do</Navbar.Link>
+           <Navbar.Link href="#leadership">Leadership</Navbar.Link>
          </Navbar.Content>
        </Navbar.Brand>
  

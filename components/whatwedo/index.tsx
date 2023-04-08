@@ -1,9 +1,9 @@
-import {Divider, Grid, Text} from '@nextui-org/react';
+import { Divider, Grid, Text } from '@nextui-org/react';
 import React from 'react';
-import {Box} from '../styles/box';
-import {Flex} from '../styles/flex';
-import {BoxIcon} from '../icons/BoxIcon';
-import {FeatureIcon} from '../icons/FeatureIcon';
+import { Box } from '../styles/box';
+import { Flex } from '../styles/flex';
+import { BoxIcon } from '../icons/BoxIcon';
+import { FeatureIcon } from '../icons/FeatureIcon';
 
 export const Whatwedo = () => {
    return (
@@ -27,14 +27,14 @@ export const Whatwedo = () => {
             }}
          >
             <Flex direction="column">
-               <Text css={{color: '$blue600'}} h3>What We Do</Text>
+               <Text id="whatwedo" css={{ color: '$blue600' }} h3>What We Do</Text>
                <Flex
                   css={{
                      py: '$10',
                      gap: '$5',
                   }}
-               >                  
-               <BoxIcon />
+               >
+                  <BoxIcon />
 
                   <Flex direction={'column'}>
                      <Text h4 weight={'medium'}>
@@ -57,10 +57,11 @@ export const Whatwedo = () => {
                      gap: '$5',
                   }}
                >
-                                 <BoxIcon />
+                  <BoxIcon />
 
                   <Flex direction={'column'}>
-                     <Text h4 weight={'medium'}>
+                     <Text 
+                        h4 weight={'medium'}>
                         Activities
                      </Text>
                      <Text
@@ -79,7 +80,7 @@ export const Whatwedo = () => {
             <Flex align={'center'}>
                <FeatureIcon />
             </Flex>
-            </Flex>
+         </Flex>
 
       </>
    );

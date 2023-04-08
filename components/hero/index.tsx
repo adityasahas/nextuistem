@@ -23,6 +23,7 @@ export const Hero = () => {
             justify={'center'}
          >
             <Box
+               
                css={{
                   pt: '$13',
 
@@ -38,6 +39,7 @@ export const Hero = () => {
                >
                   <Text
                      h1
+                     id="hero"
                      css={{
                         display: 'inline',
                      }}

@@ -100,7 +100,7 @@ import {
                    </Card.Body>
                    <Divider/>
                    <Card.Header color="primary">
-                    <Text color="primary" h3>
+                    <Text color="#0952A5" h3>
                       Discord
                     </Text>
                    </Card.Header>

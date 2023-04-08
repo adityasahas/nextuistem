@@ -59,7 +59,7 @@ css={{ color: "$blue600" }} h3>
               <Badge style={badgeGradient}>President | Director of Tech</Badge>
               <p>
                 Adi is a sophomore in High School who is very interested in
-                Technology. His extracurriculars are Tennis, Band and Decathlon.
+                Technology. He handles all of the Technology Related activities and coordinates the activities for other subjects. His extracurriculars are Tennis, Band and Decathlon.
               </p>
             </Card.Body>
           </Card>

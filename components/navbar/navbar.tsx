@@ -98,6 +98,15 @@ import {
                    <Card.Body>
                      <p>@spstemclub</p>
                    </Card.Body>
+                   <Divider/>
+                   <Card.Header color="primary">
+                    <Text color="primary" h3>
+                      Discord
+                    </Text>
+                   </Card.Header>
+                   <Card.Body>
+                    <p>Discord link is in Google Classroom.</p>
+                   </Card.Body>
                  </Card.Body>
                </Card>
              </Modal>

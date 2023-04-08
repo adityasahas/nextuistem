@@ -73,7 +73,7 @@ export const Leadership = () => {
             <Card.Body css={{ gap: "0.5rem" }}>
               <h3>Lucas Esqueda</h3>
               <Badge style={badgeGradient}>Vice President</Badge>
-              <p>Lucas is a sophomore in High School.</p>
+              <p>Lucas is a sophomore in High School...</p>
             </Card.Body>
           </Card>
         </Flex>
@@ -208,7 +208,7 @@ export const Leadership = () => {
             <Card.Body css={{ gap: "0.5rem" }}>
               <h3>Dylan Gambino</h3>
               <Badge style={badgeGradient}>Co-Director of Engineering</Badge>
-              <p>Dylan is sophomore.</p>
+              <p>Dylan is sophomore in high school...</p>
             </Card.Body>
           </Card>
         </Flex>

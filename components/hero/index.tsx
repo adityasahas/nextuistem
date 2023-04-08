@@ -2,6 +2,7 @@ import {Button, Divider, Input, Text} from '@nextui-org/react';
 import React from 'react';
 import {Box} from '../styles/box';
 import {Flex} from '../styles/flex';
+import Image from 'next/image'
 
 export const Hero = () => {
    return (
@@ -79,7 +80,7 @@ export const Hero = () => {
                   },
                }}
             >
-               <img src="stem.png" />
+               <Image src="stem.png" />
             </Box>
          </Flex>
       </>

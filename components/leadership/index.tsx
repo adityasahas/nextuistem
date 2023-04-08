@@ -12,7 +12,6 @@ export const Leadership = () => {
   return (
     <>
       <Box
-      id="leadership"
         css={{
           px: "$6",
           pb: "$14",
@@ -59,7 +58,7 @@ export const Leadership = () => {
               <Badge style={badgeGradient}>President | Director of Tech</Badge>
               <p>
                 Adi is a sophomore in High School who is very interested in
-                Technology. He coordinates the club activities and manages the Technology related activities of the club. His extracurriculars are Tennis, Band and Decathlon.
+                Technology. His extracurriculars are Tennis, Band and Decathlon.
               </p>
             </Card.Body>
           </Card>
@@ -144,7 +143,7 @@ export const Leadership = () => {
             <Card.Body css={{ gap: "0.5rem" }}>
               <h3>Greyson Mueller</h3>
               <Badge style={badgeGradient}>Director of Science</Badge>
-              <p>Greyson is sophomore in high school who enjoys science. He's in FFA where he learns about veterinary sciences on a CDE team. He handles science related matters in STEM Club along with Xinyu and enjoys sharing his scientific knowledge with others.</p>
+              <p>Greyson is sophomore in high school.</p>
             </Card.Body>
           </Card>
           <Card
@@ -184,10 +183,15 @@ export const Leadership = () => {
             }}
           >
             <Card.Body css={{ gap: "0.5rem" }}>
-              <Card.Header>
-                <Avatar squared size="lg" src="andrew.png" css={{ mr: "$7" }} />
-                <h3>Andrew Pelton</h3>
-              </Card.Header>
+               <Card.Header>
+               <Avatar
+            squared
+            size="lg"
+            src="andrew.png"
+            css={{ mr: "$7" }}
+          />
+                  <h3>Andrew Pelton</h3>
+               </Card.Header>
               <Badge style={badgeGradient}>
                 Director of Math | Co-Director of Tech
               </Badge>

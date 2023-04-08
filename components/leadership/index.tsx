@@ -144,7 +144,7 @@ export const Leadership = () => {
             <Card.Body css={{ gap: "0.5rem" }}>
               <h3>Greyson Mueller</h3>
               <Badge style={badgeGradient}>Director of Science</Badge>
-              <p>Greyson is sophomore in high school who enjoys science. He &apos; s in FFA where he learns about veterinary sciences on a CDE team. He handles science related matters in STEM Club along with Xinyu and enjoys sharing his scientific knowledge with others.</p>
+              <p>Greyson is sophomore in high school who enjoys science. He's in FFA where he learns about veterinary sciences on a CDE team. He handles science related matters in STEM Club along with Xinyu and enjoys sharing his scientific knowledge with others.</p>
             </Card.Body>
           </Card>
           <Card
@@ -160,7 +160,7 @@ export const Leadership = () => {
               <p>
                 I am the director of Engineering for the STEM Club. For the
                 engineering part of our club, I plan to make fun projects
-                that &apos; ll help the members that are interested in engineering.
+                that’ll help the members that are interested in engineering.
                 Outside of our STEM Club, I am involved in CSF, Color Guard, and
                 Environmental Club.
               </p>
@@ -192,7 +192,7 @@ export const Leadership = () => {
                 Director of Math | Co-Director of Tech
               </Badge>
               <p>
-                I am the director of Math at the STEM Club. I &apos; m currently a
+                I am the director of Math at the STEM Club. I'm currently a
                 sophomore, and participate in the band at school. I really enjoy
                 coding and hope to share my passion for math and tech!
               </p>

@@ -80,7 +80,7 @@ export const Hero = () => {
                   },
                }}
             >
-               <Image alt="STEM picture" src="stem.png" />
+               <Image src="stem.png" />
             </Box>
          </Flex>
       </>

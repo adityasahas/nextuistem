@@ -197,9 +197,9 @@ css={{ color: "$blue600" }} h3>
                 Director of Math | Co-Director of Tech
               </Badge>
               <p>
-                I am the director of Math at the STEM Club. Im currently a
-                sophomore, and participate in the band at school. I really enjoy
-                coding and hope to share my passion for math and tech!
+                Andrew is the director of Math at the STEM Club. He is currently a
+                sophomore, and participates in the band at school. He really enjoys
+                coding and hopes to share his passion for math and tech!
               </p>
             </Card.Body>
           </Card>

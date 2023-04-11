@@ -73,7 +73,7 @@ css={{ color: "$blue600" }} h3>
             <Card.Body css={{ gap: "0.5rem" }}>
               <h3>Lucas Esqueda</h3>
               <Badge style={badgeGradient}>Vice President</Badge>
-              <p>Lucas is a sophomore in High School...</p>
+              <p>Lucas is a sophmore in Sierra Pacific High school he is the vice president of the stem club and I help the stem club by running officer meetings. Lucas is involved in many extracurricular activties like tennis, percussion, CSF, and boyscouts.</p>
             </Card.Body>
           </Card>
         </Flex>

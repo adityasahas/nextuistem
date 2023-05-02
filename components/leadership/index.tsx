@@ -184,15 +184,7 @@ css={{ color: "$blue600" }} h3>
             }}
           >
             <Card.Body css={{ gap: "0.5rem" }}>
-               <Card.Header>
-               <Avatar
-            squared
-            size="lg"
-            src="andrew.png"
-            css={{ mr: "$7" }}
-          />
                   <h3>Andrew Pelton</h3>
-               </Card.Header>
               <Badge style={badgeGradient}>
                 Director of Math | Co-Director of Tech
               </Badge>

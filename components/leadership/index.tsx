@@ -58,7 +58,7 @@ css={{ color: "$blue600" }} h3>
               <h3>Aditya Sahasranam</h3>
               <Badge style={badgeGradient}>President | Director of Tech</Badge>
               <p>
-                Adi is a sophomore in High School who is very interested in
+                Adi is a junior in High School who is very interested in
                 Technology. He handles all of the Technology Related activities and coordinates the activities for other subjects. His extracurriculars are Tennis, Band and Decathlon.
               </p>
             </Card.Body>
@@ -73,7 +73,7 @@ css={{ color: "$blue600" }} h3>
             <Card.Body css={{ gap: "0.5rem" }}>
               <h3>Lucas Esqueda</h3>
               <Badge style={badgeGradient}>Vice President</Badge>
-              <p>Lucas is a sophmore in Sierra Pacific High school he is the vice president of the stem club and I help the stem club by running officer meetings. Lucas is involved in many extracurricular activties like tennis, percussion, CSF, and boyscouts.</p>
+              <p>Lucas is a junior in Sierra Pacific High school he is the vice president of the stem club and I help the stem club by running officer meetings. Lucas is involved in many extracurricular activties like tennis, percussion, CSF, and boyscouts.</p>
             </Card.Body>
           </Card>
         </Flex>
@@ -144,7 +144,7 @@ css={{ color: "$blue600" }} h3>
             <Card.Body css={{ gap: "0.5rem" }}>
               <h3>Greyson Mueller</h3>
               <Badge style={badgeGradient}>Director of Science</Badge>
-              <p>Greyson is sophomore in high school who enjoys science. Hes in FFA where he learns about veterinary sciences on a CDE team. He handles science related matters in STEM Club along with Xinyu and enjoys sharing his scientific knowledge with others.</p>
+              <p>Greyson is a junior in high school who enjoys science. Hes in FFA where he learns about veterinary sciences on a CDE team. He handles science related matters in STEM Club along with Xinyu and enjoys sharing his scientific knowledge with others.</p>
             </Card.Body>
           </Card>
           <Card
@@ -190,7 +190,7 @@ css={{ color: "$blue600" }} h3>
               </Badge>
               <p>
                 Andrew is the director of Math at the STEM Club. He is currently a
-                sophomore, and participates in the band at school. He really enjoys
+                junior, and participates in the band at school. He really enjoys
                 coding and hopes to share his passion for math and tech!
               </p>
             </Card.Body>
@@ -205,7 +205,7 @@ css={{ color: "$blue600" }} h3>
             <Card.Body css={{ gap: "0.5rem" }}>
               <h3>Dylan Gambino</h3>
               <Badge style={badgeGradient}>Co-Director of Engineering</Badge>
-              <p>Dylan is sophomore in high school....</p>
+              <p>Dylan, 16 year old high school dual enrollment student at Sierra Pacific High School. He is hoping to major in Computer Science when going off to college. He mainly focuses on hands on activities that build foundations for creativity and innovation for the Sierra Pacific STEM Club.</p>
             </Card.Body>
           </Card>
         </Flex>
